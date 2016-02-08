@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">MustacheLib</string>
+
+     <string name="ok">Ok</string>
+     <string name="empty_list">Lista vuota</string>
+     
+     <string name="seleziona_nome_cloud">Seleziona un nickname sul cloud</string>
+     
+</resources>

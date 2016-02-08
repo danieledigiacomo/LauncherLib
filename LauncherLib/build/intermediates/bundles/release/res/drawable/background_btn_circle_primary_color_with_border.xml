@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval" >
+
+    <corners
+        android:bottomLeftRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:topLeftRadius="2dp"
+        android:topRightRadius="2dp" />
+    
+    <stroke
+        android:width="0.2dip"
+        android:color="@color/white" />
+
+   <gradient
+        android:startColor="@color/app_primary_color"
+        android:centerColor="@color/app_primary_color"
+        android:endColor="@color/app_primary_color"
+        android:angle="270"
+        >
+    </gradient>
+
+
+</shape><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle_primary_color_with_border.xml -->

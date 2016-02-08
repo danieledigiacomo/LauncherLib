@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:layout_gravity="center">
+    
+
+    <GridView
+        android:id="@+id/gridViewItems"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:paddingTop="10dip"
+        android:numColumns="@integer/num_columns"
+        android:layout_gravity="center" 
+        android:verticalSpacing="25dip">
+    </GridView>
+    
+    
+</LinearLayout>
+<!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/page_items.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/page_items.xml -->

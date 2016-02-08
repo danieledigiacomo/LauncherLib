@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <it.me.launcherlib.pagination.CustomViewPager
+      xmlns:android="http://schemas.android.com/apk/res/android"
+	    android:id="@+id/view_pager"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent" /><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/custom_view_pager.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/custom_view_pager.xml -->

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle" >
+
+    <corners
+        android:bottomLeftRadius="2dp"
+        android:bottomRightRadius="2dp"
+        android:topLeftRadius="2dp"
+        android:topRightRadius="2dp" />
+
+    <stroke
+        android:width="1px"
+        android:color="@color/white" />
+
+   <gradient
+        android:startColor="@color/white"
+        android:centerColor="@color/white"
+        android:endColor="@color/white"
+        android:angle="270"
+        >
+    </gradient>
+
+
+</shape><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_dialog_white.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/drawable/background_dialog_white.xml -->

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/profiles_nav_width"
+    android:layout_height="150px"
+    android:orientation="horizontal"
+    android:gravity="center_horizontal"
+    android:background="@color/blue"
+    android:id="@+id/item_profiles" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    
+    <LinearLayout 
+     	android:id="@+id/panelItemProfiles"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:clickable="true" 
+	    android:layout_gravity="center_horizontal"
+	    android:layout_centerInParent="true">
+     
+	    	<it.me.launcherlib.widget.CircularImageView
+			 android:id="@+id/imageViewItemProfiles"
+			 android:layout_width="100px"
+			 android:layout_height="100px"
+	         android:scaleType="fitXY"
+	         app:border="true"
+	         app:border_color="@color/white"
+	         app:border_width="1dip"
+	         app:shadow="true"
+	         app:selector="true"
+	         app:selector_stroke_color="@color/blue"/>
+	
+        <TextView
+	        android:id="@+id/textViewItemProfiles"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:textColor="@color/white" 
+	        android:textSize="18px"
+	        android:textAlignment="center"
+	         android:gravity="center"
+	        android:layout_alignParentBottom="true"/>
+        
+    </LinearLayout>
+    
+    <ImageView
+	 android:id="@+id/imageViewArrow"
+	 android:layout_width="wrap_content"
+	 android:layout_height="wrap_content"
+	 android:layout_alignParentRight="true"
+	 android:src="@drawable/freccia_rossa"
+	 android:layout_centerVertical="true"
+	 android:visibility="invisible"/>
+    
+     <LinearLayout 
+	    android:layout_width="fill_parent"
+	    android:layout_height="1px"
+	    android:orientation="horizontal"
+	    android:background="@color/grey"
+	    android:layout_alignParentBottom="true"/>
+    
+</RelativeLayout>
+<!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/item_list_profiles.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/item_list_profiles.xml -->

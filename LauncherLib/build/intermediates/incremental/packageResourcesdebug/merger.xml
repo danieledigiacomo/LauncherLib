@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res"><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file name="frg_left_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_left_b.xml" qualifiers="" type="anim"/><file name="act_bottom_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_bottom_a.xml" qualifiers="" type="anim"/><file name="act_right_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_right_b.xml" qualifiers="" type="anim"/><file name="act_top_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_top_a.xml" qualifiers="" type="anim"/><file name="frg_right_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_right_a.xml" qualifiers="" type="anim"/><file name="act_right_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_right_a.xml" qualifiers="" type="anim"/><file name="frg_fade_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_fade_b.xml" qualifiers="" type="anim"/><file name="fade_out" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/fade_out.xml" qualifiers="" type="anim"/><file name="frg_bottom_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_bottom_b.xml" qualifiers="" type="anim"/><file name="act_left_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_left_a.xml" qualifiers="" type="anim"/><file name="fade_in" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/fade_in.xml" qualifiers="" type="anim"/><file name="frg_fade_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_fade_a.xml" qualifiers="" type="anim"/><file name="act_splash_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_splash_a.xml" qualifiers="" type="anim"/><file name="act_top_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_top_b.xml" qualifiers="" type="anim"/><file name="frg_top_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_top_a.xml" qualifiers="" type="anim"/><file name="frg_no_anim" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_no_anim.xml" qualifiers="" type="anim"/><file name="act_splash_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_splash_b.xml" qualifiers="" type="anim"/><file name="act_left_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_left_b.xml" qualifiers="" type="anim"/><file name="act_bottom_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/act_bottom_b.xml" qualifiers="" type="anim"/><file name="frg_top_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_top_b.xml" qualifiers="" type="anim"/><file name="frg_left_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_left_a.xml" qualifiers="" type="anim"/><file name="frg_bottom_a" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_bottom_a.xml" qualifiers="" type="anim"/><file name="frg_right_b" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/frg_right_b.xml" qualifiers="" type="anim"/><file name="ic_launcher" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style></file><file name="nav_profiles" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/nav_profiles.xml" qualifiers="" type="layout"/><file name="dialog_edittext" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/dialog_edittext.xml" qualifiers="" type="layout"/><file name="page_items" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/page_items.xml" qualifiers="" type="layout"/><file name="card" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/card.xml" qualifiers="" type="layout"/><file name="custom_view_pager" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/custom_view_pager.xml" qualifiers="" type="layout"/><file name="menu_bottom" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/menu_bottom.xml" qualifiers="" type="layout"/><file name="page_indicator" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/page_indicator.xml" qualifiers="" type="layout"/><file name="card_button_seperator" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/card_button_seperator.xml" qualifiers="" type="layout"/><file name="item_list_profiles" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/item_list_profiles.xml" qualifiers="" type="layout"/><file name="dialog_two_button" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/dialog_two_button.xml" qualifiers="" type="layout"/><file name="toast" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/toast.xml" qualifiers="" type="layout"/><file name="dialog_one_button" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/dialog_one_button.xml" qualifiers="" type="layout"/><file name="item_grid" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/item_grid.xml" qualifiers="" type="layout"/><file name="toast_need_nickname" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/toast_need_nickname.xml" qualifiers="" type="layout"/><file name="fab_press_elevation" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim-v21/fab_press_elevation.xml" qualifiers="v21" type="anim"/><file name="ic_launcher" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/colors.xml" qualifiers=""><color name="material_blue_500">#5677fc</color><color name="installer_app_inst">#FF9300</color><color name="green">#339933</color><color name="installer_app_up">#00B1FF</color><color name="battery_progress">#05AFAE</color><color name="app_primary_color">#00B1FF</color><color name="installer_orange_">#F7BE81</color><color name="orange">#FF7F00</color><color name="navbar_parents">#82D500</color><color name="grey">#A0A0A0</color><color name="card_action_ripple">#CC47B4EA</color><color name="installer_eco_up">#FF3366</color><color name="black">#000000</color><color name="card_action_positive_focused">#FFE4F0AF</color><color name="card_action_negative">#FFF64940</color><color name="transparent">#00FFFFFF</color><color name="installer_promo">#6CD900</color><color name="card_action_positive_ripple">#CCA0CC00</color><color name="card_action_positive">#FFA0CC00</color><color name="blue">#005DA3</color><color name="card_action">#FF47B4EA</color><color name="acid_green">#99CC00</color><color name="installer_fucsia">#E52B50</color><color name="app_color">#00B1FF</color><color name="red">#FF0000</color><color name="profile_3">#9FF781</color><color name="profile_2">#9FF781</color><color name="card_action_item_bg">#F4F4F4</color><color name="grey_dark">#848484</color><color name="profile_4">#9FF781</color><color name="toast">#536DFE</color><color name="light_blue">#66CCFF</color><color name="yellow">#FFCC00</color><color name="card_action_negative_focused">#FFFBCBCA</color><color name="app_primary_color_1">#FDD835</color><color name="white">#FFF</color><color name="card_action_bg">#DDD</color><color name="transparent_white">#80FFFFFF</color><color name="dark_blue">#0B0B61</color><color name="profile_1">#9FF781</color><color name="card_action_focused">#FFE3F4FC</color><color name="card_action_inverted">@android:color/white</color><color name="card_action_negative_ripple">#CCF64940</color><color name="card_content_textcolor">#444</color><color name="grey_light">#B7B7B7</color><color name="grey_lighter">#E5E5E5</color><color name="black_light">#282828</color></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/vpi__colors.xml" qualifiers=""><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__background_holo_light">#fff3f3f3</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/vpi__styles.xml" qualifiers=""><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="Widget">
+    </style><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/default_circle_indicator_fill_color</item>
+    </style></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/vpi__attrs.xml" qualifiers=""><attr format="boolean" name="centered"/><declare-styleable name="CirclePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the filled circle that represents the current page. -->
+        <attr format="color" name="fillColor"/>
+        <!-- Color of the filled circles that represents pages. -->
+        <attr format="color" name="pageColor"/>
+        <!-- Orientation of the indicator. -->
+        <attr name="android:orientation"/>
+        <!-- Radius of the circles. This is also the spacing between circles. -->
+        <attr format="dimension" name="radius"/>
+        <!-- Whether or not the selected indicator snaps to the circles. -->
+        <attr format="boolean" name="snap"/>
+        <!-- Color of the open circles. -->
+        <attr format="color" name="strokeColor"/>
+        <!-- Width of the stroke used to draw the circles. -->
+        <attr name="strokeWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><declare-styleable name="TitlePageIndicator">
+        <!-- Screen edge padding. -->
+        <attr format="dimension" name="clipPadding"/>
+        <!-- Color of the footer line and indicator. -->
+        <attr format="color" name="footerColor"/>
+        <!-- Height of the footer line. -->
+        <attr format="dimension" name="footerLineHeight"/>
+        <!-- Style of the indicator. Default is triangle. -->
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        <!-- Height of the indicator above the footer line. -->
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        <!-- Left and right padding of the underline indicator. -->
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        <!-- Padding between the bottom of the title and the footer. -->
+        <attr format="dimension" name="footerPadding"/>
+        <!-- Position of the line. -->
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        <!-- Color of the selected title. -->
+        <attr name="selectedColor"/>
+        <!-- Whether or not the selected item is displayed as bold. -->
+        <attr format="boolean" name="selectedBold"/>
+        <!-- Color of regular titles. -->
+        <attr name="android:textColor"/>
+        <!-- Size of title text. -->
+        <attr name="android:textSize"/>
+        <!-- Padding between titles when bumping into each other. -->
+        <attr format="dimension" name="titlePadding"/>
+        <!-- Padding between titles and the top of the View. -->
+        <attr format="dimension" name="topPadding"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        <!-- Whether or not the selected indicator fades. -->
+        <attr format="boolean" name="fades"/>
+        <!-- Length of the delay to fade the indicator. -->
+        <attr format="integer" name="fadeDelay"/>
+        <!-- Length of the indicator fade to transparent. -->
+        <attr format="integer" name="fadeLength"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="ViewPagerIndicator">
+        <!-- Style of the circle indicator. -->
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        <!-- Style of the icon indicator's views. -->
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        <!-- Style of the line indicator. -->
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        <!-- Style of the title indicator. -->
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        <!-- Style of the tab indicator's tabs. -->
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        <!-- Style of the underline indicator. -->
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><attr format="dimension" name="strokeWidth"/><declare-styleable name="LinePageIndicator">
+        <!-- Whether or not the indicators should be centered. -->
+        <attr name="centered"/>
+        <!-- Color of the unselected lines that represent the pages. -->
+        <attr name="unselectedColor"/>
+        <!-- Color of the selected line that represents the current page. -->
+        <attr name="selectedColor"/>
+        <!-- Width of each indicator line. -->
+        <attr format="dimension" name="lineWidth"/>
+        <!-- Width of each indicator line's stroke. -->
+        <attr name="strokeWidth"/>
+        <!-- Width of the gap between each indicator line. -->
+        <attr format="dimension" name="gapWidth"/>
+        <!-- View background -->
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/styles.xml" qualifiers=""><style name="CardProgressText" parent="@style/CardAction">
+        <item name="android:textColor">#77000000</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:paddingLeft">0dp</item>
+    </style><style name="Theme.Mustache.FullscreenNoStatusBar" parent="@style/Theme.AppCompat.Light">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="windowActionBar">false</item>
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowContentOverlay">@null</item>
+	    <item name="android:windowTranslucentStatus">false</item>
+	    
+	</style><style name="ThemeWithCorners" parent="android:Theme.Dialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item> 
+    </style><style name="CardStream">
+        <item name="android:paddingBottom">@dimen/card_stream_bottom_padding</item>
+        <item name="android:divider">@null</item>
+        <item name="android:orientation">vertical</item>
+    </style><style name="CardContent" parent="@style/CardContentBase">
+    </style><style name="CardContentArea">
+        <item name="android:paddingBottom">@dimen/card_padding</item>
+    </style><style name="CardTitle" parent="@style/CardTitleBase">
+    </style><style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/fade_in</item>
+        <item name="android:windowExitAnimation">@anim/fade_out</item>
+    </style><style name="CardContentBase" parent="@style/CardElement">
+        <item name="android:paddingTop">@dimen/card_padding</item>
+        <item name="android:textSize">@dimen/card_content_text</item>
+        <item name="android:textColor">@color/card_content_textcolor</item>
+    </style><style name="CardAction">
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_marginTop">@dimen/card_action_margin</item>
+        <item name="android:layout_marginLeft">@dimen/card_action_margin</item>
+        <item name="android:layout_marginRight">@dimen/card_action_margin</item>
+        <item name="android:paddingLeft">@dimen/card_action_padding</item>
+        <item name="android:drawablePadding">@dimen/card_action_padding</item>
+    </style><style name="CardActionArea">
+        <item name="android:background">@color/card_action_bg</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">@dimen/card_action_margin</item>
+    </style><style name="Card">
+        <item name="android:background">@drawable/card_bg</item>
+        <item name="android:layout_margin">@dimen/card_margin</item>
+    </style><style name="CardElement">
+        <item name="android:paddingLeft">@dimen/card_padding</item>
+        <item name="android:paddingRight">@dimen/card_padding</item>
+    </style><style name="CardActionNegative" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg_negative</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_negative</item>
+        <item name="android:textColor">@drawable/card_action_text_negative</item>
+    </style><style name="Theme.Mustache.Fullscreen" parent="@style/Theme.AppCompat.Light">
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="windowActionBar">false</item>
+	    <item name="android:windowFullscreen">false</item>
+	    <item name="android:windowContentOverlay">@null</item>
+	    <item name="android:windowTranslucentStatus">true</item>
+	</style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="CardTitleBase" parent="@style/CardElement">
+        <item name="android:paddingTop">@dimen/card_padding</item>
+        <item name="android:textSize">@dimen/card_content_title</item>
+    </style><style name="CardProgressLayout" parent="@style/CardAction">
+        <item name="android:layout_marginLeft">@dimen/card_action_margin</item>
+        <item name="android:layout_marginRight">@dimen/card_action_margin</item>
+        <item name="android:paddingLeft">@dimen/card_action_padding</item>
+        <item name="android:paddingRight">@dimen/card_action_padding</item>
+        <item name="android:background">#EEE</item>
+    </style><style name="CardActionPositive" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg_positive</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_positive</item>
+        <item name="android:textColor">@drawable/card_action_text_positive</item>
+    </style><style name="CardActionNeutral" parent="@style/CardAction">
+        <item name="android:background">@drawable/card_action_bg</item>
+        <item name="android:drawableStart">@drawable/card_action_icon_neutral</item>
+        <item name="android:textColor">@drawable/card_action_text</item>
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/vpi__defaults.xml" qualifiers=""><dimen name="default_circle_indicator_radius">6dp</dimen><color name="default_circle_indicator_fill_color">@color/white</color><color name="default_circle_indicator_page_color">@color/grey</color><bool name="default_circle_indicator_snap">false</bool><bool name="default_title_indicator_selected_bold">true</bool><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_title_indicator_clip_padding">4dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><color name="default_circle_indicator_stroke_color">#00000000</color><color name="default_line_indicator_selected_color">#FF33B5E5</color><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_circle_indicator_orientation">0</integer><bool name="default_circle_indicator_centered">true</bool><integer name="default_title_indicator_footer_indicator_style">2</integer><dimen name="default_title_indicator_footer_padding">7dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_title_indicator_text_size">15dp</dimen><bool name="default_underline_indicator_fades">true</bool><dimen name="default_circle_indicator_stroke_width">3dp</dimen><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><integer name="default_title_indicator_line_position">0</integer><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_title_indicator_footer_line_height">2dp</dimen><bool name="default_line_indicator_centered">true</bool><color name="default_title_indicator_footer_color">#FF33B5E5</color></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="CircularImageView">
+
+        <!-- Specifies whether or not to draw a circular border around the image. -->
+        <attr format="boolean" name="border"/>
+        <!-- Specifies the color of the border draw around the image. (if enabled) -->
+        <attr format="color" name="border_color"/>
+        <!-- Makes the border this pixels wide. (if enabled) -->
+        <attr format="dimension" name="border_width"/>
+        <!-- Specifies whether or not to draw a selector on this view upon touch events. -->
+        <attr format="boolean" name="selector"/>
+        <!-- Specifies the color of the selector draw on top of the image upon touch events. (if enabled) -->
+        <attr format="color" name="selector_color"/>
+        <!-- Specifies the color of the selector stroke drawn around the image upon touch events. Be sure to provide some opacity. (if enabled) -->
+        <attr format="color" name="selector_stroke_color"/>
+        <!-- Makes the selector stroke drawn around the image upon touch events this pixels wide. (if enabled) -->
+        <attr format="dimension" name="selector_stroke_width"/>
+        <!-- Specifies whether or not to draw a shadow around your circular image. -->
+        <attr format="boolean" name="shadow"/>
+    </declare-styleable><declare-styleable name="AutofitTextView">
+        <!-- Minimum size of the text. -->
+        <attr format="dimension" name="minTextSize"/>
+        <!-- Amount of precision used to calculate the correct text size to fit within its
+        bounds. Lower precision is more precise and takes more time. -->
+        <attr format="float" name="precision"/>
+        <!-- Defines whether to automatically resize text to fit to the view's bounds. -->
+        <attr format="boolean" name="sizeToFit"/>
+    </declare-styleable><declare-styleable name="CustomCircularImageViewTheme">
+        <attr format="reference" name="circularImageViewStyle"/>
+    </declare-styleable><declare-styleable name="FloatingActionButton">
+        <attr format="color" name="fab_colorPressed"/>
+        <attr format="color" name="fab_colorNormal"/>
+        <attr format="color" name="fab_colorRipple"/>
+        <attr format="color" name="fab_colorDisabled"/>
+        <attr format="boolean" name="fab_shadow"/>
+        <attr format="enum" name="fab_type">
+            <enum name="normal" value="0"/>
+            <enum name="mini" value="1"/>
+        </attr>
+    </declare-styleable></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/integers.xml" qualifiers=""><integer name="act_transition_duration">200</integer><integer name="dialog_transition_duration">250</integer><integer name="frg_transition_duration">150</integer><integer name="splash_transition_duration">800</integer><integer name="num_columns">5</integer></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/dimens.xml" qualifiers=""><dimen name="profiles_nav_width">180dp</dimen><dimen name="fab_scroll_threshold">4dp</dimen><dimen name="card_margin">10dp</dimen><dimen name="circular_btn_stroke">3px</dimen><dimen name="card_content_title">24sp</dimen><dimen name="card_action_padding">8dp</dimen><dimen name="fab_press_translation_z">6dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="card_stream_bottom_padding">90dp</dimen><dimen name="fab_shadow_size">12dp</dimen><dimen name="activity_vertical_margin">16dp</dimen><dimen name="card_action_margin">3dp</dimen><dimen name="fab_size_normal">56dp</dimen><dimen name="card_padding">15dp</dimen><dimen name="fab_size_mini">40dp</dimen><dimen name="fab_elevation_lollipop">8dp</dimen><dimen name="card_content_text">14sp</dimen></file><file path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/values/strings.xml" qualifiers=""><string name="ok">Ok</string><string name="seleziona_nome_cloud">Seleziona un nickname sul cloud</string><string name="empty_list">Lista vuota</string><string name="app_name">MustacheLib</string></file><file name="ic_launcher" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="background_toast" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_toast.xml" qualifiers="" type="drawable"/><file name="ic_delete" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_delete.png" qualifiers="" type="drawable"/><file name="background_btn_circle_primary_color" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle_primary_color.xml" qualifiers="" type="drawable"/><file name="ic_clear" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_clear.png" qualifiers="" type="drawable"/><file name="background_dialog_white" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_dialog_white.xml" qualifiers="" type="drawable"/><file name="checkbox_empty" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/checkbox_empty.png" qualifiers="" type="drawable"/><file name="default_avatar" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/default_avatar.png" qualifiers="" type="drawable"/><file name="us0510eu" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/us0510eu.png" qualifiers="" type="drawable"/><file name="card_action_bg_positive" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_bg_positive.xml" qualifiers="" type="drawable"/><file name="empty_button" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/empty_button.png" qualifiers="" type="drawable"/><file name="checkbox_delete" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/checkbox_delete.png" qualifiers="" type="drawable"/><file name="button_green" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/button_green.xml" qualifiers="" type="drawable"/><file name="shadow_bottom" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/shadow_bottom.xml" qualifiers="" type="drawable"/><file name="ic_call_outcoming" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_call_outcoming.png" qualifiers="" type="drawable"/><file name="card_action_icon_negative" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_icon_negative.xml" qualifiers="" type="drawable"/><file name="background_btn_circle_primary_color_with_border" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle_primary_color_with_border.xml" qualifiers="" type="drawable"/><file name="background_btn_circle_grey" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle_grey.xml" qualifiers="" type="drawable"/><file name="card_separator" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_separator.xml" qualifiers="" type="drawable"/><file name="card_action_bg_negative" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_bg_negative.xml" qualifiers="" type="drawable"/><file name="card_action_icon_positive" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_icon_positive.xml" qualifiers="" type="drawable"/><file name="background_btn_grey" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_grey.xml" qualifiers="" type="drawable"/><file name="checkbox_check" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/checkbox_check.png" qualifiers="" type="drawable"/><file name="right_arrow" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/right_arrow.png" qualifiers="" type="drawable"/><file name="background_btn_circle_primary_color_1" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle_primary_color_1.xml" qualifiers="" type="drawable"/><file name="shadow_right" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/shadow_right.xml" qualifiers="" type="drawable"/><file name="card_action_text_negative" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_text_negative.xml" qualifiers="" type="drawable"/><file name="fab_shadow" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/fab_shadow.png" qualifiers="" type="drawable"/><file name="transparent_placeholder" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/transparent_placeholder.png" qualifiers="" type="drawable"/><file name="card_action_icon_neutral" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_icon_neutral.xml" qualifiers="" type="drawable"/><file name="button_red" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/button_red.xml" qualifiers="" type="drawable"/><file name="background_btn_remove" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_remove.xml" qualifiers="" type="drawable"/><file name="shadow_top" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/shadow_top.xml" qualifiers="" type="drawable"/><file name="btn_circle_primary_color_1" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/btn_circle_primary_color_1.xml" qualifiers="" type="drawable"/><file name="ic_parent" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_parent.png" qualifiers="" type="drawable"/><file name="fab_shadow_mini" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/fab_shadow_mini.png" qualifiers="" type="drawable"/><file name="freccia_rossa" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/freccia_rossa.png" qualifiers="" type="drawable"/><file name="ic_trash" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_trash.png" qualifiers="" type="drawable"/><file name="card_bg" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_bg.9.png" qualifiers="" type="drawable"/><file name="card_action_text_positive" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_text_positive.xml" qualifiers="" type="drawable"/><file name="ic_check" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_check.png" qualifiers="" type="drawable"/><file name="ic_call_incoming" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_call_incoming.png" qualifiers="" type="drawable"/><file name="checkbox_edit" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/checkbox_edit.png" qualifiers="" type="drawable"/><file name="ic_add" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_add.png" qualifiers="" type="drawable"/><file name="shadow_left" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/shadow_left.xml" qualifiers="" type="drawable"/><file name="ic_edit" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_edit.png" qualifiers="" type="drawable"/><file name="card_action_bg" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_bg.xml" qualifiers="" type="drawable"/><file name="background_btn_circle" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_circle.xml" qualifiers="" type="drawable"/><file name="background_btn_edit" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_edit.xml" qualifiers="" type="drawable"/><file name="card_action_text" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_action_text.xml" qualifiers="" type="drawable"/><file name="ic_call_missed" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/ic_call_missed.png" qualifiers="" type="drawable"/><file name="card_overlay_focused" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/card_overlay_focused.xml" qualifiers="" type="drawable"/><file name="background_btn_add" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable/background_btn_add.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/></source><source path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/generated/res/rs/debug"/><source path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/debug/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="CircularImageView"><attr format="boolean" name="border"/><attr format="color" name="border_color"/><attr format="dimension" name="border_width"/><attr format="boolean" name="selector"/><attr format="color" name="selector_color"/><attr format="color" name="selector_stroke_color"/><attr format="dimension" name="selector_stroke_width"/><attr format="boolean" name="shadow"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="AutofitTextView"><attr format="dimension" name="minTextSize"/><attr format="float" name="precision"/><attr format="boolean" name="sizeToFit"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="CustomCircularImageViewTheme"><attr format="reference" name="circularImageViewStyle"/></declare-styleable><declare-styleable name="FloatingActionButton"><attr format="color" name="fab_colorPressed"/><attr format="color" name="fab_colorNormal"/><attr format="color" name="fab_colorRipple"/><attr format="color" name="fab_colorDisabled"/><attr format="boolean" name="fab_shadow"/><attr format="enum" name="fab_type"><enum name="normal" value="0"/><enum name="mini" value="1"/></attr></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle"><enum name="none" value="0"/><enum name="triangle" value="1"/><enum name="underline" value="2"/></attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition"><enum name="bottom" value="0"/><enum name="top" value="1"/></attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

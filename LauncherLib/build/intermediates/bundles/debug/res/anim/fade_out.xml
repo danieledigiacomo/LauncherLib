@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<alpha xmlns:android="http://schemas.android.com/apk/res/android" 
+	    android:toAlpha="0.0" 
+
+	    android:duration="@integer/dialog_transition_duration" 
+	    android:fromAlpha="1.0"></alpha><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/anim/fade_out.xml -->

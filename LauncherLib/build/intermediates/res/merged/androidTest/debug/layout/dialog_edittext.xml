@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/background_dialog_white" 
+    android:paddingLeft="30dip"
+    android:paddingRight="30dip"
+    android:paddingTop="30dip"
+    android:paddingBottom="20dip"
+    android:id="@+id/dlgOneButton">
+    
+     <LinearLayout
+ 	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:layout_gravity="center_horizontal">
+         
+    	<EditText 
+        	android:id="@+id/editText"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dip"
+	        android:textSize="32dip"
+	        android:textStyle="bold"
+	        android:textColor="@color/orange"/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+ 	    android:layout_width="wrap_content"
+    	android:layout_height="50px"
+    	android:orientation="horizontal"
+    	android:layout_gravity="center_horizontal"
+    	android:gravity="center_horizontal"
+    	android:layout_marginTop="30dip">
+ 	    
+
+        <Button
+	        android:id="@+id/btnKO"
+	        android:layout_width="100px"
+	        android:layout_height="50px"
+	        android:textSize="20dip"
+	        android:textColor="@android:color/white"
+	        android:text="ko"
+	        android:textStyle="bold"
+	        android:background="@drawable/button_green"/>
+ 	    
+        
+ 	    <Button
+	        android:id="@+id/btnOK"
+	        android:layout_width="100px"
+	        android:layout_height="50px"
+	        android:textSize="20dip"
+	        android:textColor="@android:color/white"
+	        android:text="@string/ok"
+	        android:textStyle="bold"
+	        android:background="@drawable/button_green"/>
+ 	    
+ 	    	    
+   	</LinearLayout>
+       
+    
+</LinearLayout>
+<!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/dialog_edittext.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/dialog_edittext.xml -->

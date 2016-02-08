@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/background_dialog_white" 
+    android:paddingLeft="30dip"
+    android:paddingRight="30dip"
+    android:paddingTop="30dip"
+    android:paddingBottom="20dip"
+    android:id="@+id/dlgOneButton">
+    
+     <LinearLayout
+ 	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:visibility="gone"
+    	android:layout_gravity="center_horizontal">
+         
+    	<TextView 
+        	android:id="@+id/dialogText"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="5dip"
+	        android:textSize="32dip"
+	        android:textStyle="bold"
+	        android:textColor="@color/orange"/>
+    
+    </LinearLayout>
+    
+    <LinearLayout
+ 	    android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+    	android:layout_gravity="center_horizontal"
+    	android:gravity="center_horizontal">
+ 	    
+
+        <ImageView
+	        android:id="@+id/btnKO"
+	        android:layout_width="100dip"
+	        android:layout_height="100dip"
+	        android:src="@drawable/ic_delete"
+	        android:background="@drawable/background_btn_remove"/>
+ 	    
+        
+        <ImageView
+	        android:id="@+id/btnOK"
+	        android:layout_width="100dip"
+	        android:layout_height="100dip"
+	        android:src="@drawable/ic_check"
+	        android:layout_marginLeft="50dip"
+	        android:background="@drawable/background_btn_add"/>
+ 	    	    
+   	</LinearLayout>
+       
+    
+</LinearLayout>
+<!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/dialog_two_button.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/dialog_two_button.xml -->

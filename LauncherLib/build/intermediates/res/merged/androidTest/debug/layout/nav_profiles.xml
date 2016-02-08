@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+   	android:id="@+id/parental_nav"
+    android:layout_width="@dimen/profiles_nav_width"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_alignParentLeft="true"
+	android:background="@color/white">
+       
+       <LinearLayout
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:orientation="vertical"
+	    android:gravity="center_horizontal">
+	
+			<include layout="@layout/item_list_profiles" android:id="@+id/itemUser1"/>
+		    <include layout="@layout/item_list_profiles" android:id="@+id/itemUser2"/>
+		    <include layout="@layout/item_list_profiles" android:id="@+id/itemUser3"/>
+		    <include layout="@layout/item_list_profiles" android:id="@+id/itemUser4"/>
+	           
+	</LinearLayout>
+       
+ </ScrollView><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/nav_profiles.xml --><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/build/intermediates/bundles/debug/res/layout/nav_profiles.xml -->

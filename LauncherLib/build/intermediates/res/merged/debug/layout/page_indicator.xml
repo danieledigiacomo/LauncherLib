@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <it.me.launcherlib.pagination.CirclePageIndicator 
+     xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:id="@+id/indicator"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_centerHorizontal="true"
+			android:layout_alignParentBottom="true"
+			android:layout_marginBottom="5dip"/><!-- From: file:/home/daniele/workspaces/workspace_lisciani_2016_phone/Phone/LauncherLib/src/main/res/layout/page_indicator.xml -->
