@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <color name="red">#FF0000</color>
+
+        <color name="acid_green">#99CC00</color>
+        <color name="green">#339933</color>
+        <color name="white">#FFF</color>
+        <color name="dark_blue">#0B0B61</color>
+        <color name="light_blue">#66CCFF</color>
+        <color name="grey">#A0A0A0</color>
+		<color name="grey_dark">#848484</color>
+		<color name="grey_light">#B7B7B7</color>
+		<color name="grey_lighter">#E5E5E5</color>
+		<color name="orange">#FF7F00</color>
+		<color name="black">#000000</color>
+		<color name="black_light">#282828</color>
+		
+		
+		<color name="blue">#005DA3</color>
+		<color name="transparent_white">#80FFFFFF</color>
+		<color name="transparent">#00FFFFFF</color>
+		
+        <color name="yellow">#FFCC00</color>
+        
+        <color name="profile_1">#9FF781</color>
+        <color name="profile_2">#9FF781</color>
+        <color name="profile_3">#9FF781</color>
+        <color name="profile_4">#9FF781</color>
+        
+		
+        <color name="toast">#536DFE</color>
+        <color name="battery_progress">#05AFAE</color>
+        
+        <color name="installer_orange_">#F7BE81</color>
+        <color name="installer_fucsia">#E52B50</color>
+        
+        <color name="installer_promo">#6CD900</color>
+        <color name="installer_app_inst">#FF9300</color>
+        <color name="installer_eco_up">#FF3366</color>
+ 		<color name="installer_app_up">#00B1FF</color>
+        
+        <color name="navbar_parents">#82D500</color>
+        
+        <color name="app_primary_color">#00B1FF</color>
+        <color name="app_primary_color_1">#FDD835</color>
+        <color name="app_color">#00B1FF</color>
+        <color name="material_blue_500">#5677fc</color>
+        
+        <!-- CARD -->
+        <color name="card_action_inverted">@android:color/white</color>
+ 
+	    <color name="card_content_textcolor">#444</color>
+	 
+	    <color name="card_action_bg">#DDD</color>
+	    <color name="card_action_item_bg">#F4F4F4</color>
+	 
+	    <!-- Neutral Actions -->
+	    <color name="card_action_focused">#FFE3F4FC</color>
+	    <color name="card_action">#FF47B4EA</color>
+	    <color name="card_action_ripple">#CC47B4EA</color>
+	 
+	    <!-- Negative Actions -->
+	    <color name="card_action_negative_focused">#FFFBCBCA</color>
+	    <color name="card_action_negative">#FFF64940</color>
+	    <color name="card_action_negative_ripple">#CCF64940</color>
+	 
+	    <!-- Positive Actions -->
+	    <color name="card_action_positive_focused">#FFE4F0AF</color>
+	    <color name="card_action_positive">#FFA0CC00</color>
+	    <color name="card_action_positive_ripple">#CCA0CC00</color>
+
+</resources>
