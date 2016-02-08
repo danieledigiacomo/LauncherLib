@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/LauncherLib.iml" filepath="$PROJECT_DIR$/LauncherLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/launcherlib/launcherlib.iml" filepath="$PROJECT_DIR$/launcherlib/launcherlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nineOldAndroids/nineOldAndroids.iml" filepath="$PROJECT_DIR$/nineOldAndroids/nineOldAndroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickyHeaderLibrary/stickyHeaderLibrary.iml" filepath="$PROJECT_DIR$/stickyHeaderLibrary/stickyHeaderLibrary.iml" />
     </modules>
   </component>
 </project>

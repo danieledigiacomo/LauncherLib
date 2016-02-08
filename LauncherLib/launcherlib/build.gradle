@@ -1,5 +1,4 @@
 apply plugin: 'com.android.library'
-apply from: rootProject.file('gradle/gradle-mvn-push.gradle')
 
 android {
     compileSdkVersion 23
@@ -22,5 +21,14 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     testCompile 'junit:junit:4.12'
+
+
+    compile project(':nineOldAndroids')
+    compile project(':stickyHeaderLibrary')
+    compile 'com.android.support:support-v13:23.1.1'
     compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:recyclerview-v7:23.1.1'
+
+    //compile files('libs/ recyclerview-v7.jar')
+    compile files('libs/picasso-2.3.4.jar')
 }
